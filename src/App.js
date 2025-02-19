@@ -32,7 +32,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>NASA Image and Video Library</h1>
+      <h1>NASA Image Library</h1>
       <form onSubmit={handleSubmit}>
         <input
           type="text"
